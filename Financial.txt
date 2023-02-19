@@ -1,0 +1,4 @@
+This is the platform for all Paypal payment
+It will be strictly restricted only to senior engineers
+The policy must be enforced 
+Keep out
