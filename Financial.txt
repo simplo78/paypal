@@ -2,3 +2,4 @@ This is the platform for all Paypal payment
 It will be strictly restricted only to senior engineers
 The policy must be enforced 
 Keep out
+The Financial department has requested all financial folders be stored on the new shelf in the server room next to the desk
